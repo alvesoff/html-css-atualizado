@@ -29,4 +29,4 @@ Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum e
 
 1. **Clone este repositório:**
    ```bash
-   git clone (https://github.com/alvesoff/html-css-atualizado.git)
+   git clone https://github.com/alvesoff/html-css-atualizado.git
